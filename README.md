@@ -190,7 +190,7 @@ which is essential for data roles in **analytics, BI, consulting, and product te
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **Python** (pandas, numpy, matplotlib, seaborn)  
 - **Power BI**  
